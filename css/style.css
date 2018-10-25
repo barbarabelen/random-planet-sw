@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'starwars';
+    src: local('STARWARS'), url('../font/STARWARS.woff');
+}
+
+h1{
+    font-family: 'starwars';
+}
+
+button {
+    font-family: 'starwars';
+}
