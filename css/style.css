@@ -5,8 +5,15 @@
 
 h1{
     font-family: 'starwars';
+    text-align: center;
+    padding: 3%;
 }
 
 button {
     font-family: 'starwars';
+    padding: 10px;
+}
+
+.button-container {
+    text-align: center;
 }
